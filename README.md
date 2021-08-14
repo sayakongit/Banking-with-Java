@@ -1,4 +1,4 @@
-# Banking with Java
+# Banking with Java ( ATM Machine Project )
 This is a simple project on Java to perform all basic banking operations
 ##  User guide
 There are 10 valid account numbers starting from 15908000 to 15908090.
